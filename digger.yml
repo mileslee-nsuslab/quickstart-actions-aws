@@ -1,3 +1,3 @@
 generate_projects:
-  include: "terraform/gp_2134/global/*"
+  include: "terraform/gp_2134/global/acm/*"
 auto_merge: true
