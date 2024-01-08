@@ -30,3 +30,4 @@ resource "aws_instance" "vm_instance" {
     Name = "terraform-instance"
   }
 }
+
