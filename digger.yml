@@ -1,4 +1,5 @@
 projects:
 - name: production
-  dir: terraform/**
+  dir: terraform
+  include_patterns: ["./terraform/**"]
 auto_merge: true
